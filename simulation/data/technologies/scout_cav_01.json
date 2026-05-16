@@ -1,0 +1,18 @@
+{
+	"genericName": "Scouting upgrade",
+	"description": "Scouts +15% pierce attack damage.",
+	"cost": {
+		"food": 200,
+		"metal": 100
+	},
+	"requirements": { "tech": "phase_city" },
+	"requirementsTooltip": "Unlocked in City Phase.",
+	"icon": "sword_01.png",
+	"researchTime": 60,
+	"tooltip": "Scouts +15% pierce attack damage.",
+	"modifications": [
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.15 }
+	],
+	"affects": ["Scout"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

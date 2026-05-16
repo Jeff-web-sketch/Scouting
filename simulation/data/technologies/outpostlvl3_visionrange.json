@@ -1,0 +1,15 @@
+{
+	"genericName": "Outpost vision range",
+	"description": "Increases outpost vision range.",
+	"cost": { "food": 300 },
+	"supersedes": "outpost_vision",
+	"requirements": { "tech": "phase_city" },
+	"icon": "pigeon.png",
+	"researchTime": 40,
+	"tooltip": "Outposts +15% vision range.",
+	"modifications": [
+		{ "value": "Vision/Range", "multiply": 1.15 }
+	],
+	"affects": ["Outpost"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

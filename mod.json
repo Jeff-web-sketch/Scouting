@@ -1,0 +1,11 @@
+{
+	"name": "Scouting",
+	"label": "Scouting",
+	"version": "0.1.4",
+	"url": "",
+	"description": "",
+	"dependencies": [
+		"0ad=0.28.0"
+	],
+	"type": ""
+}

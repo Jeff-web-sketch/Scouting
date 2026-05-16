@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_defensive_outpost">
+  <Identity>
+    <Civ>pers</Civ>
+    <SpecificName>Outpost</SpecificName>
+  </Identity>
+  <VisualActor>
+    
+    <Actor>props/special/palisade_rocks_watchtower.xml</Actor>
+  </VisualActor>
+  
+  <Upgrade>
+    <Tower>
+      <Entity>structures/{civ}/outpost_lvl2</Entity>
+      <Tooltip>Upgrade to outpost level 2, +10 vision range.</Tooltip>
+      <Cost>
+        <wood>50</wood>
+        <stone>100</stone>
+      </Cost>
+      <Variant>upgrading</Variant>
+      <Time>100</Time>
+      <Requirements>
+        <Techs datatype="tokens">phase_town</Techs>
+      </Requirements>
+    </Tower>
+  </Upgrade>
+   <Vision>
+    <Range>80</Range>
+  </Vision>
+  
+</Entity>

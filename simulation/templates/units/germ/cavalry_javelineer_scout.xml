@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_cavalry_ranged_javelineer_scout">
+  <Identity>
+    <Civ>germ</Civ>
+    <Lang>latin</Lang>
+    <GenericName>Cavalry Scout</GenericName>
+    <SpecificName>Cavalry Scout</SpecificName>
+    <VisibleClasses datatype="tokens">Scout</VisibleClasses>
+    <SelectionGroupName>units/rome/cavalry_javelineer_auxiliary_b</SelectionGroupName>
+    <Icon>units/brit/cavalry_javelinist_scout.png</Icon>
+    
+  </Identity>
+  <Promotion>
+    <Entity>units/rome/cavalry_javelineer_scout</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/britons/cavalry_javelinist_b_m.xml</Actor>
+  </VisualActor>
+  <Builder>
+  <Rate>
+    2.0
+  </Rate>
+  <Entities datatype="tokens">
+    structures/{civ}/outpost
+    structures/{civ}/scout_tent
+    structures/{civ}/command_tent
+    structures/{civ}/wallset_siege
+    structures/wallset_palisade
+  </Entities>
+</Builder>
+</Entity>

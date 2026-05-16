@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_defensive_outpost">
+  <Identity>
+    <Civ>maur</Civ>
+    <SpecificName>Outpost lvl2</SpecificName>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/romans/outpost.xml</Actor>
+  </VisualActor>
+  <Upgrade>
+    <Tower>
+      <Entity>structures/{civ}/outpost_lvl3</Entity>
+      <Tooltip>Upgrade to outpost level 3, +10 meters vision, and it shoots arrows.</Tooltip>
+      <Cost>
+        <wood>50</wood>
+        <stone>100</stone>
+      </Cost>
+      <Variant>upgrading</Variant>
+      <Time>100</Time>
+      <Requirements>
+        <Techs datatype="tokens">phase_city</Techs>
+      </Requirements>
+    </Tower>
+  </Upgrade>
+  <Vision>
+    <Range>90</Range>
+  </Vision>
+</Entity>
