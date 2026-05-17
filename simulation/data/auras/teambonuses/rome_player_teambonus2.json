@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Scout"],
+	"affectedPlayers": ["MutualAlly"],
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 0.9 }
+	],
+	"auraName": "Conscription",
+	"auraDescription": "Scout cavalry −10% training time."
+}

@@ -11,7 +11,7 @@
     
   </Identity>
   <Promotion>
-    <Entity>units/rome/cavalry_javelineer_scout</Entity>
+    <Entity>units/athen/cavalry_javelineer_scout</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/athenians/cavalry_javelinist_b_m.xml</Actor>
