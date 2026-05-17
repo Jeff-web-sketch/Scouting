@@ -23,7 +23,7 @@
   </VisualActor>
   <Builder>
   <Rate>
-    2.2
+    1.5
   </Rate>
   <Entities datatype="tokens">
     structures/{civ}/outpost
