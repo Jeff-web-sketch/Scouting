@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_cavalry_ranged_javelineer_scout_adv">
+<Entity parent="template_unit_cavalry_ranged_javelineer_scout_adv_rome">
   <Identity>
     <Civ>rome</Civ>
     <Lang>latin</Lang>
@@ -23,7 +23,7 @@
   </VisualActor>
   <Builder>
   <Rate>
-    1.5
+    1.7
   </Rate>
   <Entities datatype="tokens">
     structures/{civ}/outpost
