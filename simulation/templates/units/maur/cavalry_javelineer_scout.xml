@@ -11,7 +11,7 @@
     
   </Identity>
   <Promotion>
-    <Entity>units/maur/cavalry_javelineer_scout</Entity>
+    <Entity>units/maur/cavalry_javelineer_scout_adv</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/mauryas/cavalry_javelinist_b_m.xml</Actor>

@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_cavalry_ranged_javelineer_scout">
+<Entity parent="template_unit_cavalry_ranged_javelineer_scout_adv">
   <Identity>
-    <Civ>athen</Civ>
+    <Civ>iber</Civ>
     <Lang>latin</Lang>
-    <GenericName>Cavalry Scout</GenericName>
-    <SpecificName>Cavalry Scout</SpecificName>
+    <GenericName>Advanced Cavalry Scout</GenericName>
+    <SpecificName>Advanced Cavalry Scout</SpecificName>
     <VisibleClasses datatype="tokens">Scout</VisibleClasses>
     <SelectionGroupName>units/rome/cavalry_javelineer_auxiliary_b</SelectionGroupName>
-    <Icon>units/athen/cavalry_javelinist_scout.png</Icon>
+    <Icon>units/rome/cavalry_javelinist_scout.png</Icon>
     
   </Identity>
+  
+    <TrainingRestrictions>
+    <Category>advscoutcav</Category>
+  </TrainingRestrictions>
+  
   <Promotion>
-    <Entity>units/athen/cavalry_javelineer_scout_adv</Entity>
+    <Entity>units/iber/cavalry_javelineer_scout_adv</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/athenians/cavalry_javelinist_b_m.xml</Actor>
+    <Actor>units/romans/cavalry_javelinist_auxiliary_b_m.xml</Actor>
   </VisualActor>
   <Builder>
   <Rate>
-    1.3
+    1.5
   </Rate>
   <Entities datatype="tokens">
     structures/{civ}/outpost

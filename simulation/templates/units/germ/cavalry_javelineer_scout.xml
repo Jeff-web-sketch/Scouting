@@ -11,7 +11,7 @@
     
   </Identity>
   <Promotion>
-    <Entity>units/germ/cavalry_javelineer_scout</Entity>
+    <Entity>units/germ/cavalry_javelineer_scout_adv</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/britons/cavalry_javelinist_b_m.xml</Actor>

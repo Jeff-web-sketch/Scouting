@@ -8,7 +8,9 @@
     <VisibleClasses datatype="tokens">Scout</VisibleClasses>
     <SelectionGroupName>units/rome/cavalry_javelineer_auxiliary_b</SelectionGroupName>
     <Icon>units/rome/cavalry_javelinist_scout.png</Icon>
-    
+    <Requirements>
+      <Techs datatype="tokens">unlock_adv_scout_cav</Techs>
+    </Requirements>
   </Identity>
   
     <TrainingRestrictions>
@@ -16,7 +18,7 @@
   </TrainingRestrictions>
   
   <Promotion>
-    <Entity>units/rome/cavalry_javelineer_scout</Entity>
+    <Entity>units/pers/cavalry_javelineer_scout_adv</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/romans/cavalry_javelinist_auxiliary_b_m.xml</Actor>

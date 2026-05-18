@@ -16,7 +16,7 @@
   </TrainingRestrictions>
   
   <Promotion>
-    <Entity>units/rome/cavalry_javelineer_scout</Entity>
+    <Entity>units/rome/cavalry_javelineer_scout_adv</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/romans/cavalry_javelinist_auxiliary_b_m.xml</Actor>
