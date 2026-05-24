@@ -7,7 +7,7 @@
     <SpecificName>Advanced Cavalry Scout</SpecificName>
     <VisibleClasses datatype="tokens">Scout</VisibleClasses>
     <SelectionGroupName>units/rome/cavalry_javelineer_auxiliary_b</SelectionGroupName>
-    <Icon>units/athen/cavalry_javelinist_scout_adv.png</Icon>
+    <Icon>units/sele/cavalry_javelinist_scout_adv.png</Icon>
     
   </Identity>
   
