@@ -1,0 +1,16 @@
+{
+	"genericName": "Unlock Scout Cavalry",
+	"description": "Unlock Scout Cavalry for stables",
+	"cost": {
+		"food": 200,
+		"metal": 100
+	},
+	"requirements": { "tech": "phase_town" },
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "nisean_war_horses.png",
+	"researchTime": 60,
+	"tooltip": "Unlock Scout Cavalry for stables",
+	"modifications": [ ],
+	"affects": ["Scout"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_cavalry_ranged3">
+  <Attack>
+    <Ranged>
+      <AttackName>Javelin</AttackName>
+      <Damage>
+        <Pierce>10</Pierce>
+      </Damage>
+      <MaxRange>30</MaxRange>
+      <PrepareTime>400</PrepareTime>
+      <RepeatTime>1500</RepeatTime>
+      <Projectile>
+        <Speed>70</Speed>
+        <Spread>4</Spread>
+        <Gravity>35</Gravity>
+        <FriendlyFire>false</FriendlyFire>
+        <LaunchPoint y="5"/>
+      </Projectile>
+      <PreferredClasses datatype="tokens">Human</PreferredClasses>
+    </Ranged>
+  </Attack>
+  <Cost>
+    <Resources>
+      <wood>50</wood>
+    </Resources>
+  </Cost>
+  <Identity>
+    <GenericName>Cavalry Javelineer</GenericName>
+    <VisibleClasses datatype="tokens">Javelineer</VisibleClasses>
+
+  </Identity>
+  <Sound>
+    <SoundGroups>
+      <attack_ranged>attack/weapon/javelin_attack.xml</attack_ranged>
+      <attack_impact_ranged>attack/impact/javelin_impact.xml</attack_impact_ranged>
+    </SoundGroups>
+  </Sound>
+  <UnitMotion>
+    <WalkSpeed op="mul">0.9</WalkSpeed>
+    <Acceleration op="mul">0.9</Acceleration>
+  </UnitMotion>
+    <Builder>
+  <Rate>
+    1.3
+  </Rate>
+  <Entities datatype="tokens">
+    structures/{civ}/outpost
+    structures/{civ}/scout_tent
+    structures/{civ}/command_tent
+    structures/{civ}/wallset_siege
+    structures/wallset_palisade
+  </Entities>
+</Builder>
+</Entity>
