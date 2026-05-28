@@ -21,7 +21,7 @@
     <Actor>structures/tent_greek.xml</Actor>
   </VisualActor>
   <Trainer>
-    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
       units/{civ}/champion_infantry_swordsman_centurion
       units/{civ}/champion_infantry_swordsman_first
@@ -41,11 +41,11 @@
     <Researcher>
 
   <Technologies datatype="tokens">
-    scout_cav_02
+    pair_unlock_scout_cav_tech
   </Technologies>
 </Researcher>
   <GarrisonHolder>
-    <Max>4</Max>
+    <Max>5</Max>
     <EjectHealth>0.1</EjectHealth>
     <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
     <List datatype="tokens">Support Infantry Cavalry</List>
