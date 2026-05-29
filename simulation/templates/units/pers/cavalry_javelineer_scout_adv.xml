@@ -8,9 +8,6 @@
     <VisibleClasses datatype="tokens">Scout</VisibleClasses>
     <SelectionGroupName>units/rome/cavalry_javelineer_auxiliary_b</SelectionGroupName>
     <Icon>units/pers/cavalry_javelinist_scout_adv.png</Icon>
-    <Requirements>
-      <Techs datatype="tokens">unlock_adv_scout_cav</Techs>
-    </Requirements>
   </Identity>
   
     <TrainingRestrictions>
@@ -31,7 +28,6 @@
     structures/{civ}/outpost
     structures/{civ}/scout_tent
     structures/{civ}/command_tent
-    structures/{civ}/wallset_siege
     structures/wallset_palisade
   </Entities>
 </Builder>

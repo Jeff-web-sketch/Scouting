@@ -24,7 +24,6 @@
     structures/{civ}/outpost
     structures/{civ}/scout_tent
     structures/{civ}/command_tent
-    structures/{civ}/wallset_siege
     structures/wallset_palisade
   </Entities>
 </Builder>

@@ -7,7 +7,7 @@
     <SpecificName>Cavalry Scout</SpecificName>
     <VisibleClasses datatype="tokens">Scout</VisibleClasses>
     <SelectionGroupName>units/rome/cavalry_javelineer_auxiliary_b</SelectionGroupName>
-    <Icon>units/brit/cavalry_javelinist_scout.png</Icon>
+    <Icon>units/cart/cavalry_javelinist_scout.png</Icon>
     
   </Identity>
   <Promotion>
