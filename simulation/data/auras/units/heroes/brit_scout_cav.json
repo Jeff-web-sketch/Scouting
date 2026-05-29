@@ -1,0 +1,14 @@
+{
+	"type": "range",
+	"radius": 60,
+	"affects": ["Scout"],
+	"modifications": [
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.2 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.2 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.2 },
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.2 }
+	],
+	"auraName": "Scout Cavalry",
+	"auraDescription": "Scout Cavalry +20% melee attack damage, +20% movement speed.",
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}
