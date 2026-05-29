@@ -3,7 +3,7 @@
 	"label": "Scouting",
 	"version": "1.5.6",
 	"url": "https://wildfiregames.com/forum/topic/163707-scouting-mod/",
-	"description": "",
+	"description": "Adds Scout cavalry and tents, ect.",
 	"dependencies": [
 		"0ad=0.28.0"
 	],
