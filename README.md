@@ -67,6 +67,7 @@ Scout cav can build palisade wall, roman scout cav can build siege wall instead
 
 <br>
 <br>
+
 Version 1.0 -> 5/12/26
 ------------------------------------------------------------------------
 
