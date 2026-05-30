@@ -3,6 +3,7 @@ Adds 2 new types of cavalry: Scout Cavalry and Advanced Scout Cavalry. Adds 2 ty
 
 Version 1.5.7 -> 5/30/26
 ------------------------------------------------------------------------
+
 Added README
 A brit hero gives a bonus to scout cav
 <br>
@@ -17,6 +18,8 @@ Portrait fixes + other fixes
 <br>
 
 Version 1.5.4 -> 5/26/26
+------------------------------------------------------------------------
+
 
 Bug fix(es)
 
