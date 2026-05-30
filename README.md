@@ -4,10 +4,10 @@ Adds 2 new types of cavalry: Scout Cavalry and Advanced Scout Cavalry. Adds 2 ty
 Version 1.5.8 -> 5/30/26
 ------------------------------------------------------------------------
 
-Iber -> Tent 6 population
-Kush -> outpost: lvl1 +5 vision range, lvl2 +5 vision range, lvl3 vision range
-Sele command tent 6 garrison and healbuff 2
-Ptol train adv scout cav in civic center and stables
+Iber -> Tent 6 population<br>
+Kush -> outpost: lvl1 +5 vision range, lvl2 +5 vision range, lvl3 vision range<br>
+Sele command tent 6 garrison and healbuff 2<br>
+Ptol train adv scout cav in civic center and stables<br>
 
 <br>
 
