@@ -8,7 +8,6 @@ Added README
 A brit hero gives a bonus to scout cav
 
 <br>
-<br>
 
 Version 1.5.6 -> 5/29/26
 ------------------------------------------------------------------------
@@ -18,7 +17,6 @@ A Rome hero gives a bonus: -35 resource costs for scout cav
 
 Portrait fixes + other fixes
 
-<br>
 <br>
 
 Version 1.5.4 -> 5/26/26
