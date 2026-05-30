@@ -69,6 +69,8 @@ Scout cav can build palisade wall, roman scout cav can build siege wall instead
 Version 1.0 -> 5/12/26
 ------------------------------------------------------------------------
 <br>
+<br>
+<br>
 
 Adds a scout cav that can build an outpost and scout tent. Scout cav have 25 resource capacity
 
