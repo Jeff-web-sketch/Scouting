@@ -9,7 +9,7 @@ Kush -> outpost: lvl1 +5 vision range, lvl2 +5 vision range, lvl3 vision range
 Sele command tent 6 garrison and healbuff 2
 Ptol train adv scout cav in civic center and stables
 
-
+<br>
 
 Version 1.5.7 -> 5/30/26
 ------------------------------------------------------------------------
