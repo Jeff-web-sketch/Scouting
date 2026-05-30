@@ -27,6 +27,7 @@
       units/{civ}/champion_infantry_axeman
       units/{civ}/support_healer_b
       units/{civ}/cavalry_javelineer_scout_adv
+      units/{civ}/champion_cavalry
     </Entities>
   </Trainer>
 <ResourceDropsite>
@@ -34,7 +35,7 @@
     <Sharable>true</Sharable>
   </ResourceDropsite>
   <Population>
-    <Bonus op="add">7</Bonus>
+    <Bonus op="add">8</Bonus>
   </Population>
     <Researcher>
 
@@ -43,29 +44,12 @@
     
   </Technologies>
 </Researcher>
-
-  <Upgrade>
-    <Tent>
-      <Entity>structures/{civ}/command_tent_lvl2</Entity>
-      <Tooltip>Upgrade to Command Tent lvl2</Tooltip>
-      <Cost>
-        <wood>100</wood>
-        <food>100</food>
-      </Cost>
-      <Variant>upgrading</Variant>
-      <Time>120</Time>
-      <Requirements>
-        <Techs datatype="tokens">phase_city</Techs>
-      </Requirements>
-    </Tent>
-  </Upgrade>
-
   <GarrisonHolder>
-    <Max>6</Max>
+    <Max>8</Max>
     <EjectHealth>0.1</EjectHealth>
     <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
     <List datatype="tokens">Support Infantry Cavalry</List>
-    <BuffHeal>2</BuffHeal>
+    <BuffHeal>2.2</BuffHeal>
     <LoadingRange>2</LoadingRange>
   </GarrisonHolder>
 </Entity>
