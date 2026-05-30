@@ -6,7 +6,7 @@ Version 1.5.8 -> 5/30/26
 
 Iber -> Tent 6 population<br>
 Kush -> outpost: lvl1 +5 vision range, lvl2 +5 vision range, lvl3 vision range<br>
-Sele -> command tent 6 garrison and healbuff 2<br>
+Sele -> command tent 6 garrison and healbuff 2, and command tent lvl2 buff heal 2.2, garrsion/population bonus 8 <br>
 Ptol ->  train adv scout cav in civic center and stables<br>
 
 <br>
