@@ -15,6 +15,6 @@
     </Entities>
   </Trainer>
     <Population>
-    <Bonus op="add">5</Bonus>
+    <Bonus op="add">6</Bonus>
   </Population>
 </Entity>

@@ -1,6 +1,16 @@
 Adds 2 new types of cavalry: Scout Cavalry and Advanced Scout Cavalry. Adds 2 types of tents: Tent, and Command Tent. Changes scout towers: lvl1 80 meters vision, lvl2 90meters vision, and lvl3 100meters
 <br>
 
+Version 1.5.8 -> 5/30/26
+------------------------------------------------------------------------
+
+Iber -> Tent 6 population
+Kush -> outpost: lvl1 +5 vision range, lvl2 +5 vision range, lvl3 vision range
+Sele command tent 6 garrison and healbuff 2
+Ptol train adv scout cav in civic center and stables
+
+
+
 Version 1.5.7 -> 5/30/26
 ------------------------------------------------------------------------
 
@@ -91,4 +101,4 @@ Adds a scout cav that can build an outpost and scout tent. Scout cav have 25 res
 
 Tent -> train scout cav and jav infantry, if the civ has it
 
-Outpost upgrades -> lvl2 +10 vision range, lvl3 +10 vision range and shoots arrows
+Outpost upgrades -> lvl2 +10 vision range, lvl3 +10 vision range and is supposed to shoots arrows, but doesn't currently :)

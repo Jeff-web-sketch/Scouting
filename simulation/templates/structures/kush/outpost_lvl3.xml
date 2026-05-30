@@ -13,7 +13,7 @@
       <Damage>
         <Pierce>5</Pierce>
       </Damage>
-      <MaxRange>60</MaxRange>
+      <MaxRange>80</MaxRange>
       <PrepareTime>400</PrepareTime>
       <RepeatTime>4000</RepeatTime>
       <Projectile>
@@ -33,7 +33,7 @@
   </Attack>
 
   <Vision>
-    <Range>100</Range>
+    <Range>110</Range>
   </Vision>
 
   

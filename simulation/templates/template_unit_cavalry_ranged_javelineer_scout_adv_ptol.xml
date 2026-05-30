@@ -31,7 +31,7 @@
     <GenericName>Cavalry Javelineer</GenericName>
     <VisibleClasses datatype="tokens">Javelineer</VisibleClasses>
         <Requirements>
-      <Techs datatype="tokens">phase_town</Techs>
+      <Techs datatype="tokens">unlock_scout_cav_stable</Techs>
     </Requirements>
   </Identity>
   <Sound>

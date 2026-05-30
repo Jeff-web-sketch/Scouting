@@ -17,6 +17,7 @@
       units/{civ}/infantry_slinger_b
       units/{civ}/cavalry_archer_b
       units/{civ}/cavalry_javelineer_scout
+      units/{civ}/cavalry_javelineer_scout_adv
     </Entities>
   </Trainer>
   <VisualActor>

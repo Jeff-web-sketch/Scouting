@@ -25,7 +25,7 @@
     </Tower>
   </Upgrade>
    <Vision>
-    <Range>80</Range>
+    <Range>85</Range>
   </Vision>
   
 </Entity>
