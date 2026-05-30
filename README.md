@@ -1,3 +1,5 @@
+Adds 2 new types of cavalry: Scout Cavalry and Advanced Scout Cavalry. Adds 2 types of tents: Tent, and Command Tent. Changes scout towers: lvl1 80 meters vision, lvl2 90meters vision, and lvl3 100meters
+
 Version 1.5.6 -> 5/29/26
 
 A Rome hero gives a bonus: -35 resource costs for scout cav
