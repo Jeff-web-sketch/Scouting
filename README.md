@@ -64,7 +64,7 @@ Adds command tent -> train healers and champions for some civs, population bonus
 Tent now has 5 population bonus 
 
 Scout cav can build palisade wall, roman scout cav can build siege wall instead
-
+<br>
 
 Version 1.0 -> 5/12/26
 ------------------------------------------------------------------------
