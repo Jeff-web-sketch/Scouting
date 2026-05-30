@@ -15,7 +15,7 @@ Train scout cav from stables, after you get the tech: unlock scout cav
 
 Other stuff that I am probably forgetting :)
 
-
+<br>
 
 Versions 1.4-1.5.1 -> 5/20/26
 
@@ -41,7 +41,7 @@ Adds advanced scout cav for Romans: 130 health 12 damage, can build siege wall (
 
 (Rome) scout cav can build palisade wall
 
- 
+ <br>
 
 Version 1.2 -> 5/14/26
 
@@ -49,7 +49,7 @@ Adds a vision range tech -> research from command tent
 
 Portraits and actors are updated
 
- 
+ <br>
 
 Version 1.1 -> 5/13/26
 
@@ -59,8 +59,8 @@ Tent now has 5 population bonus
 
 Scout cav can build palisade wall, roman scout cav can build siege wall instead
 
+<br>
  
-
 Version 1.0 -> 5/12/26
 
 Adds a scout cav that can build an outpost and scout tent. Scout cav have 25 resource capacity
