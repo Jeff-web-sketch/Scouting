@@ -1,6 +1,13 @@
 Adds 2 new types of cavalry: Scout Cavalry and Advanced Scout Cavalry. Adds 2 types of tents: Tent, and Command Tent. Changes scout towers: lvl1 80 meters vision, lvl2 90meters vision, and lvl3 100meters
 <br>
 
+Version 1.5.9 -> 5/31/26
+------------------------------------------------------------------------
+
+Scout ships generate scout cavalry
+
+<br>
+
 Version 1.5.8 -> 5/30/26
 ------------------------------------------------------------------------
 
