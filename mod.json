@@ -3,7 +3,7 @@
 	"label": "Scouting",
 	"version": "1.5.8",
 	"url": "https://wildfiregames.com/forum/topic/163707-scouting-mod/",
-	"description": "Adds Scout cavalry and tents, ect.",
+	"description": "Adds 2 new types of cavalry: Scout Cavalry and Advanced Scout Cavalry. Adds 2 types of tents: Tent, and Command Tent. Changes scout towers: lvl1 80 meters vision, lvl2 90meters vision, and lvl3 100meters",
 	"dependencies": [
 		"0ad=0.28.0"
 	],
