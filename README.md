@@ -5,6 +5,7 @@ Version 1.6 -> 6/1/26
 ------------------------------------------------------------------------
 
 Scout tower lvl3 now shoots arrows and has a garrison of 2
+Ptol scout ship train adv scout cavalry
 
 <br>
 
