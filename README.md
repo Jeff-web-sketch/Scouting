@@ -4,7 +4,7 @@ Adds 2 new types of cavalry: Scout Cavalry and Advanced Scout Cavalry. Adds 2 ty
 Version 1.6 -> 6/1/26
 ------------------------------------------------------------------------
 
-Scout tower lvl3 now shoots arrows and has a garrison of 2
+Scout tower lvl3 now shoots arrows and has a garrison of 2 <br>
 Ptol scout ship train adv scout cavalry
 
 <br>
