@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_ship_warship_scout">
+  <Footprint>
+    <Square width="8.0" depth="33.0"/>
+    <Height>10.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>ptol</Civ>
+    <SpecificName>Dierēs</SpecificName>
+    <Icon>units/ptol/ship_scout.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/ptolemies/bireme.xml</Actor>
+  </VisualActor>
+      <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+     units/{civ}/cavalry_javelineer_scout_adv
+    </Entities>
+  </Trainer>
+</Entity>

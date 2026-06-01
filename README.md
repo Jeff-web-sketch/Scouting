@@ -1,7 +1,7 @@
 Adds 2 new types of cavalry: Scout Cavalry and Advanced Scout Cavalry. Adds 2 types of tents: Tent, and Command Tent. Changes scout towers: lvl1 80 meters vision, lvl2 90meters vision, and lvl3 100meters
 <br>
 
-Version 1.5.10 -> 6/1/26
+Version 1.6 -> 6/1/26
 ------------------------------------------------------------------------
 
 Scout tower lvl3 now shoots arrows and has a garrison of 2
