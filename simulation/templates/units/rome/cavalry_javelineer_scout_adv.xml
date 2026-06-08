@@ -4,7 +4,7 @@
     <Civ>rome</Civ>
     <Lang>latin</Lang>
     <GenericName>Advanced Cavalry Scout</GenericName>
-    <SpecificName>Advanced Cavalry Scout</SpecificName>
+    <SpecificName>Speculatores</SpecificName>
     <VisibleClasses datatype="tokens">Scout</VisibleClasses>
     <SelectionGroupName>units/rome/cavalry_javelineer_auxiliary_b</SelectionGroupName>
     <Icon>units/rome/cavalry_javelinist_scout_adv.png</Icon>

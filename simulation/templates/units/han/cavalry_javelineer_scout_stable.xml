@@ -4,10 +4,10 @@
     <Civ>han</Civ>
     <Lang>latin</Lang>
     <GenericName>Cavalry Scout</GenericName>
-    <SpecificName>Cavalry Scout</SpecificName>
+    <SpecificName>Qing Qi</SpecificName>
     <VisibleClasses datatype="tokens">Scout</VisibleClasses>
     <SelectionGroupName>units/rome/cavalry_javelineer_auxiliary_b</SelectionGroupName>
-    <Icon>units/han/cavalry_javelinist_scout.png</Icon>
+    <Icon>units/han/cavalry_javelineer_scout.png</Icon>
     
   </Identity>
   <Promotion>

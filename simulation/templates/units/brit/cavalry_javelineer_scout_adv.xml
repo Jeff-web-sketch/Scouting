@@ -4,7 +4,7 @@
     <Civ>brit</Civ>
     <Lang>latin</Lang>
     <GenericName>Advanced Cavalry Scout</GenericName>
-    <SpecificName>Advanced Cavalry Scout</SpecificName>
+    <SpecificName>Advanced Essedarii</SpecificName>
     <VisibleClasses datatype="tokens">Scout</VisibleClasses>
     <SelectionGroupName>units/rome/cavalry_javelineer_auxiliary_b</SelectionGroupName>
     <Icon>units/brit/cavalry_javelinist_scout_adv.png</Icon>
@@ -19,7 +19,7 @@
     <Entity>units/brit/cavalry_javelineer_scout_adv</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/britons/cavalry_javelinist_e_m.xml</Actor>
+    <Actor>units/britons/chariot_javelinist_c_m_scout.xml</Actor>
   </VisualActor>
   <Builder>
   <Rate>

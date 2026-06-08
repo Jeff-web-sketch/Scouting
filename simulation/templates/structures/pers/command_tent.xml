@@ -2,7 +2,7 @@
 <Entity parent="template_structure_defensive_scout_tent_command">
   <Identity>
     <Civ>pers</Civ>
-    <SpecificName>Command Tent</SpecificName>
+    <SpecificName>Commander's Tent</SpecificName>
           <Requirements>
       <Techs datatype="tokens">phase_town</Techs>
     </Requirements>

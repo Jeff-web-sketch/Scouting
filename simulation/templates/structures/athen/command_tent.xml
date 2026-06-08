@@ -4,7 +4,8 @@
   
   <Identity>
     <Civ>athen</Civ>
-    <SpecificName>Command Tent</SpecificName>
+    <GenericName>Commander's Tent</GenericName>
+    <SpecificName>Sarā-parda</SpecificName>
           <Requirements>
       <Techs datatype="tokens">phase_town</Techs>
     </Requirements>

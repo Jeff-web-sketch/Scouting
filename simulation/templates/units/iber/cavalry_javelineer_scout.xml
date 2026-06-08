@@ -4,7 +4,7 @@
     <Civ>iber</Civ>
     <Lang>latin</Lang>
     <GenericName>Cavalry Scout</GenericName>
-    <SpecificName>Cavalry Scout</SpecificName>
+    <SpecificName>Caetrati</SpecificName>
     <VisibleClasses datatype="tokens">Scout</VisibleClasses>
     <SelectionGroupName>units/rome/cavalry_javelineer_auxiliary_b</SelectionGroupName>
     <Icon>units/iber/cavalry_javelinist_scout.png</Icon>

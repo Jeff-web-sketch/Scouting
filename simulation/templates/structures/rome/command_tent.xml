@@ -4,7 +4,8 @@
   
   <Identity>
     <Civ>rome</Civ>
-    <SpecificName>Command Tent</SpecificName>
+    <SpecificName>Tabernaculum</SpecificName>
+    <GenericName>Commander's Tent</GenericName>
           <Requirements>
       <Techs datatype="tokens">phase_town</Techs>
     </Requirements>

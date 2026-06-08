@@ -2,7 +2,8 @@
 <Entity parent="template_structure_defensive_scout_tent">
   <Identity>
     <Civ>pers</Civ>
-    <SpecificName>Tent</SpecificName>
+    <SpecificName>Skēnai</SpecificName>
+    <GenericName>Tent</GenericName>
   </Identity>
   <VisualActor>
     <Actor>props/structures/romans/rome_tent.xml</Actor>

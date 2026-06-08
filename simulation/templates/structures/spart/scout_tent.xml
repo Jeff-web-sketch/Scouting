@@ -3,6 +3,7 @@
   <Identity>
     <Civ>spart</Civ>
     <SpecificName>Tent</SpecificName>
+    <GenericName>Skēnē</GenericName>
   </Identity>
   <VisualActor>
     <Actor>props/structures/romans/rome_tent.xml</Actor>

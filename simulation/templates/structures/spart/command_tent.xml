@@ -3,6 +3,7 @@
   <Identity>
     <Civ>spart</Civ>
     <SpecificName>Command Tent</SpecificName>
+    <GenericName>Stratēgeion</GenericName>
           <Requirements>
       <Techs datatype="tokens">phase_town</Techs>
     </Requirements>
