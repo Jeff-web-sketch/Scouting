@@ -4,6 +4,14 @@ Adds 2 new types of cavalry: Scout Cavalry and Advanced Scout Cavalry. Adds 2 ty
 Any suggestions or porblems, please report to forum: https://wildfiregames.com/forum/topic/163707-scouting-mod/
 <br>
 
+Version 1.7 -> 6/8/26
+------------------------------------------------------------------------
+
+Brit scout cav now chariot
+More historically accurate naming for tent, command tent, and scout cav
+
+<br>
+
 Version 1.6 -> 6/1/26
 ------------------------------------------------------------------------
 
