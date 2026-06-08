@@ -7,7 +7,7 @@ Any suggestions or porblems, please report to forum: https://wildfiregames.com/f
 Version 1.7 -> 6/8/26
 ------------------------------------------------------------------------
 
-Brit scout cav now chariot
+Brit scout cav now chariot <br>
 More historically accurate naming for tent, command tent, and scout cav
 
 <br>
