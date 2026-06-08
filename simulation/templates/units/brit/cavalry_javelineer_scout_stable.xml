@@ -3,7 +3,7 @@
   <Identity>
     <Civ>brit</Civ>
     <Lang>latin</Lang>
-    <GenericName>Cavalry Scout</GenericName>
+    <GenericName>Chariot Scout</GenericName>
     <SpecificName>Essedarii</SpecificName>
     <VisibleClasses datatype="tokens">Scout</VisibleClasses>
     <SelectionGroupName>units/rome/cavalry_javelineer_auxiliary_b</SelectionGroupName>
