@@ -4,6 +4,13 @@ Adds 2 new types of cavalry: Scout Cavalry and Advanced Scout Cavalry. Adds 2 ty
 Any suggestions or porblems, please report to forum: https://wildfiregames.com/forum/topic/163707-scouting-mod/
 <br>
 
+Version 1.8 beta 1 -> 6/29/26
+------------------------------------------------------------------------
+
+New bg
+
+<br>
+
 Version 1.7 -> 6/8/26
 ------------------------------------------------------------------------
 
