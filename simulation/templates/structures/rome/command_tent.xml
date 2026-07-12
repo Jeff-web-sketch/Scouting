@@ -29,6 +29,13 @@
       units/{civ}/champion_infantry
       units/{civ}/champion_infantry_axeman
       units/{civ}/support_healer_b
+      units/{civ}/champion_fanatic
+      units/{civ}/champion_infantry_spearman_academy
+      units/{civ}/champion_infantry_swordsman
+      units/{civ}/champion_infantry_apedemak
+      units/{civ}chmpion_spearman
+      units/{civ}/champion_maiden
+      units/{civ}/champion_infantry_pikeman
       units/{civ}/cavalry_javelineer_scout_adv
     </Entities>
   </Trainer>

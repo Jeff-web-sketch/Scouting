@@ -137,6 +137,7 @@
       Trader
       Unit
       Worker
+      Scout
     </UnitClasses>
     <StructureClasses datatype="tokens">
       Economic

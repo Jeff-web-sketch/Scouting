@@ -4,6 +4,16 @@ Adds 2 new types of cavalry: Scout Cavalry and Advanced Scout Cavalry. Adds 2 ty
 Any suggestions or porblems, please report to forum: https://wildfiregames.com/forum/topic/163707-scouting-mod/
 <br>
 
+Version 1.8 beta 2 -> 7/12/26
+------------------------------------------------------------------------
+
+Removed custom bg, maybe will work on it later<br>
+Reduced scout tower lvl3 arrow damage from 8 to 5 pierce <br>
+Scout is now a vissible class <br>
+Every civ can train champions from command tent
+
+<br>
+
 Version 1.8 beta 1 -> 6/29/26
 ------------------------------------------------------------------------
 
