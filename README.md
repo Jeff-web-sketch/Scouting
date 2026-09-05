@@ -5,7 +5,7 @@ Unit models and textures were made by 0 A.D. (cc by 3.0, https://creativecommons
 Any suggestions or porblems, please report to forum: https://wildfiregames.com/forum/topic/163707-scouting-mod/
 <br>
 
-Version 1.8 beta 3 -> (UPCOMING)
+Version 1.8 beta 3 -> (UPCOMING)(CANCELED)[Unless I can get help]
 ------------------------------------------------------------------------
 
 Scout/command tents become "invisible" to ai bots
