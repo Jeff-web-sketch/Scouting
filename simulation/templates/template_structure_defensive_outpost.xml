@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_defensive">
-  
+  <Auras datatype="tokens">
+    structures/wall_garrisoned
+  </Auras>
   <BuildRestrictions>
-    <Territory>own neutral enemy</Territory>
+    <Territory>own neutral</Territory>
+    <Distance>
+      <FromClass>Outpost</FromClass>
+      <MinDistance>50</MinDistance>
+    </Distance>
   </BuildRestrictions>
   <Cost>
     <BuildTime>30</BuildTime>
@@ -19,13 +25,11 @@
     <SpawnEntityOnDeath>decay|rubble/rubble_stone_2x2</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <GenericName>Tent</GenericName>
-    <SelectionGroupName>template_structure_defensive_scout_tent</SelectionGroupName>
-    <Tooltip>Build in own, enemy, or neutral territory.</Tooltip>
-    <VisibleClasses datatype="tokens">Tent</VisibleClasses>
-    <Classes datatype="tokens">Tent</Classes>
-
-    <Icon>structures/mercenary_camp.png</Icon>
+    <GenericName>Outpost</GenericName>
+    <SelectionGroupName>template_structure_defensive_outpost</SelectionGroupName>
+    <Tooltip>Build in own or neutral territory.</Tooltip>
+    <VisibleClasses datatype="tokens">Outpost</VisibleClasses>
+    <Icon>structures/outpost.png</Icon>
   </Identity>
   <Loot>
     <wood>12</wood>
@@ -34,9 +38,11 @@
     <Static width="6.0" depth="6.0"/>
   </Obstruction>
   <ProductionQueue/>
-  
-
-  
+  <Researcher>
+    <Technologies datatype="tokens">
+      outpost_vision
+    </Technologies>
+  </Researcher>
   <Resistance>
     <Entity>
       <Damage>
@@ -55,15 +61,22 @@
   <StatusBars>
     <HeightOffset>14.0</HeightOffset>
   </StatusBars>
- 
+  <TerritoryDecay>
+    <Territory>enemy</Territory>
+  </TerritoryDecay>
+  <TurretHolder>
+    <TurretPoints>
+      <One>
+        <X>0</X>
+        <Y>8</Y>
+        <Z>0</Z>
+      </One>
+    </TurretPoints>
+  </TurretHolder>
   <Vision>
     <Range>90</Range>
   </Vision>
   <VisualActor>
     <FoundationActor>structures/fndn_2x2.xml</FoundationActor>
   </VisualActor>
-  <TerritoryDecay>
-    <DecayRate>1</DecayRate>
-    
-  </TerritoryDecay>
 </Entity>

@@ -5,6 +5,13 @@ Unit models and textures were made by 0 A.D. (cc by 3.0, https://creativecommons
 Any suggestions or porblems, please report to forum: https://wildfiregames.com/forum/topic/163707-scouting-mod/
 <br>
 
+Version 1.8 -> 9/5/26
+------------------------------------------------------------------------
+Pretty much reverting back to 1.7
+Removes bad bg and logo thing<br>
+Attempt at changing selection group name, but seemed to fail<br>
+<br>
+
 Version 1.8 beta 3 -> (UPCOMING)(CANCELED)[Unless I can get help]
 ------------------------------------------------------------------------
 

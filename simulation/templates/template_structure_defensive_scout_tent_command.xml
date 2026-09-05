@@ -20,7 +20,7 @@
   </Health>
   <Identity>
     <GenericName>Command Tent</GenericName>
-    <SelectionGroupName>template_structure_defensive_outpost</SelectionGroupName>
+    <SelectionGroupName>template_structure_defensive_tent_command</SelectionGroupName>
     <Tooltip>Build in own, enemy, or neutral territory.</Tooltip>
     <VisibleClasses datatype="tokens">Tent</VisibleClasses>
     <Classes datatype="tokens">CommandTent</Classes>
