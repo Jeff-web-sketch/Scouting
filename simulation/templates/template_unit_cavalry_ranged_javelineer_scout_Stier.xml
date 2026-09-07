@@ -4,9 +4,9 @@
     <Ranged>
       <AttackName>Javelin</AttackName>
       <Damage>
-        <Pierce>13</Pierce>
+        <Pierce>10</Pierce>
       </Damage>
-      <MaxRange>38</MaxRange>
+      <MaxRange>30</MaxRange>
       <PrepareTime>400</PrepareTime>
       <RepeatTime>1500</RepeatTime>
       <Projectile>
@@ -19,14 +19,14 @@
       <PreferredClasses datatype="tokens">Human</PreferredClasses>
     </Ranged>
   </Attack>
-  <Health>
-    <Max>135</Max>
-  </Health>
   <Cost>
     <Resources>
       <wood>50</wood>
     </Resources>
   </Cost>
+  <Health>
+    <Max>120</Max>
+  </Health>
   <Identity>
     <GenericName>Cavalry Javelineer</GenericName>
     <VisibleClasses datatype="tokens">Javelineer</VisibleClasses>
@@ -38,7 +38,18 @@
     </SoundGroups>
   </Sound>
   <UnitMotion>
-    <WalkSpeed op="mul">1.4</WalkSpeed>
-    <Acceleration op="mul">1.1</Acceleration>
+    <WalkSpeed op="mul">0.9</WalkSpeed>
+    <Acceleration op="mul">0.9</Acceleration>
   </UnitMotion>
+  <Builder>
+  <Rate>
+    1.6
+  </Rate>
+    <Entities datatype="tokens">
+    structures/{civ}/outpost
+    structures/{civ}/scout_tent
+    structures/{civ}/command_tent
+    structures/wallset_palisade
+  </Entities>
+  </Builder>
 </Entity>

@@ -20,7 +20,7 @@
     </Ranged>
   </Attack>
   <Health>
-    <Max>130</Max>
+    <Max>140</Max>
   </Health>
   <Cost>
     <Resources>
@@ -31,7 +31,7 @@
     <GenericName>Cavalry Javelineer</GenericName>
     <VisibleClasses datatype="tokens">Javelineer</VisibleClasses>
         <Requirements>
-      <Techs datatype="tokens">unlock_scout_cav_stable</Techs>
+      <Techs datatype="tokens">phase_town</Techs>
     </Requirements>
   </Identity>
   <Sound>
@@ -44,4 +44,15 @@
     <WalkSpeed op="mul">1.3</WalkSpeed>
     <Acceleration op="mul">1.0</Acceleration>
   </UnitMotion>
+    <Builder>
+  <Rate>
+    1.7
+  </Rate>
+  <Entities datatype="tokens">
+    structures/{civ}/outpost
+    structures/{civ}/scout_tent
+    structures/{civ}/command_tent
+    structures/wallset_palisade
+  </Entities>
+</Builder>
 </Entity>
