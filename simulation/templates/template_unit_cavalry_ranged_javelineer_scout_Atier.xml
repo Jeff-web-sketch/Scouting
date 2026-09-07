@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_cavalry_ranged3">
+<Entity parent="template_unit_cavalry_ranged2">
   <Attack>
     <Ranged>
       <AttackName>Javelin</AttackName>
@@ -24,10 +24,12 @@
       <wood>50</wood>
     </Resources>
   </Cost>
+  <Health>
+    <Max>110</Max>
+  </Health>
   <Identity>
     <GenericName>Cavalry Javelineer</GenericName>
     <VisibleClasses datatype="tokens">Javelineer</VisibleClasses>
-
   </Identity>
   <Sound>
     <SoundGroups>
@@ -39,16 +41,15 @@
     <WalkSpeed op="mul">0.9</WalkSpeed>
     <Acceleration op="mul">0.9</Acceleration>
   </UnitMotion>
-    <Builder>
+  <Builder>
   <Rate>
-    1.3
+    1.4
   </Rate>
-  <Entities datatype="tokens">
+    <Entities datatype="tokens">
     structures/{civ}/outpost
     structures/{civ}/scout_tent
     structures/{civ}/command_tent
-    structures/{civ}/wallset_siege
     structures/wallset_palisade
   </Entities>
-</Builder>
+  </Builder>
 </Entity>

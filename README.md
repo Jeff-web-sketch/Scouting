@@ -5,6 +5,27 @@ Unit models and textures were made by 0 A.D. (cc by 3.0, https://creativecommons
 Any suggestions or porblems, please report to forum: https://wildfiregames.com/forum/topic/163707-scouting-mod/
 <br>
 
+Version 1.9 -> 9/7/26 The Balancing update
+------------------------------------------------------------------------
+Removed special things for rome, brit, and ptol (eg- heroses, and boat things)<br>
+S tier: pers, maur, cart
+Scout build rate to 1.6, and health to 120 <br>
+Adv scout health to 140, and build rate to 1.7<br>
+<br>
+A tier: sele, kush, han, mace
+Scout build rate to 1.4, and health to 110<br>
+Adv scout rate to 1.6, and health stays at 130<br>
+<br>
+B tier: spart, ptol, gaul, germ
+Scout build rate at 1.3, and health to 100<br>
+Adv scout build rate at 1.4 and health to 115<br>
+<br>
+C tier: iber, brit, athen
+Scout build rate at 1.1, and health to 85<br>
+Adv scout build rate to 1.2, and health to 100<br>
+
+<br>
+
 Version 1.8 -> 9/5/26
 ------------------------------------------------------------------------
 Pretty much reverting back to 1.7
