@@ -6,6 +6,13 @@ This project is lisenced under https://creativecommons.org/licenses/by-sa/3.0/de
 Any suggestions or porblems, please report to forum: https://wildfiregames.com/forum/topic/163707-scouting-mod/
 <br>
 
+Version 2.0 -> 10/21/26 
+------------------------------------------------------------------------
+Todo: fix ai using command tent as a dropsite<br>
+Minmize stuff in the tent and scout tent templates, probably saves on RAM<br>
+
+<br>
+
 Version 1.9 -> 9/7/26 The Balancing update
 ------------------------------------------------------------------------
 Removed special things for rome, brit, and ptol (eg- heroses, and boat things)<br>

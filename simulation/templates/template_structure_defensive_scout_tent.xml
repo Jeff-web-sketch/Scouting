@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_structure_defensive">
-  
   <BuildRestrictions>
     <Territory>own neutral enemy</Territory>
   </BuildRestrictions>
@@ -24,7 +23,6 @@
     <Tooltip>Build in own, enemy, or neutral territory.</Tooltip>
     <VisibleClasses datatype="tokens">Tent</VisibleClasses>
     <Classes datatype="tokens">Tent</Classes>
-
     <Icon>structures/mercenary_camp.png</Icon>
   </Identity>
   <Loot>
@@ -34,9 +32,6 @@
     <Static width="6.0" depth="6.0"/>
   </Obstruction>
   <ProductionQueue/>
-  
-
-  
   <Resistance>
     <Entity>
       <Damage>
@@ -55,15 +50,24 @@
   <StatusBars>
     <HeightOffset>14.0</HeightOffset>
   </StatusBars>
- 
+   <VisualActor>
+    <Actor>props/structures/romans/rome_tent.xml</Actor>
+    <FoundationActor>structures/fndn_2x2.xml</FoundationActor>
+  </VisualActor>
+  <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/cavalry_javelineer_scout
+      units/{civ}/infantry_javelineer_b
+    </Entities>
+  </Trainer>
+    <Population>
+    <Bonus op="add">5</Bonus>
+  </Population>
   <Vision>
     <Range>90</Range>
   </Vision>
-  <VisualActor>
-    <FoundationActor>structures/fndn_2x2.xml</FoundationActor>
-  </VisualActor>
   <TerritoryDecay>
     <DecayRate>1</DecayRate>
-    
   </TerritoryDecay>
 </Entity>
