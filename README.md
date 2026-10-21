@@ -5,3 +5,4 @@ This project is lisenced under https://creativecommons.org/licenses/by-sa/3.0/de
 <br>
 Any suggestions or porblems, please report to forum: https://wildfiregames.com/forum/topic/163707-scouting-mod/
 <br>
+Changelog has moved to the <a href="https://github.com/Jeff-web-sketch/Scouting/wiki">wiki</a>
