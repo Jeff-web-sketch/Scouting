@@ -10,6 +10,7 @@ Version 2.0 -> 10/21/26
 ------------------------------------------------------------------------
 Todo: fix ai using command tent as a dropsite<br>
 Minmize stuff in the tent and scout tent templates, probably saves on RAM<br>
+fix range bonus tech<br>
 
 <br>
 

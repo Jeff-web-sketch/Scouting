@@ -11,7 +11,7 @@
 	"researchTime": 60,
 	"tooltip": "Scouts +15% pierce attack damage.",
 	"modifications": [
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.15 }
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.15 }
 	],
 	"affects": ["Scout"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"

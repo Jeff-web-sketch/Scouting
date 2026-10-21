@@ -30,7 +30,6 @@
   <Identity>
     <GenericName>Cavalry Javelineer</GenericName>
     <VisibleClasses datatype="tokens">Javelineer</VisibleClasses>
-
   </Identity>
   <Sound>
     <SoundGroups>
