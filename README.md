@@ -7,3 +7,4 @@ Any suggestions or porblems, please report to forum: https://wildfiregames.com/f
 <br>
 <br>
 Changelog has moved to the <a href="https://github.com/Jeff-web-sketch/Scouting/wiki">wiki</a>
+
