@@ -13,7 +13,9 @@ Minmize stuff in the tent and scout tent templates, probably saves on RAM<br>
 fix range bonus tech<br>
 remove unused auras<br>
 make Rome's second teambonus work<br>
-
+## New (2.0.1 Beta)
+clean up scout tower files<br>
+clear up some civic center files<br>
 <br>
 
 Full changelog has moved to the https://github.com/Jeff-web-sketch/Scouting/wiki
