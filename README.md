@@ -1,6 +1,5 @@
-Adds 2 new types of cavalry: Scout Cavalry and Advanced Scout Cavalry. Adds 2 types of tents: Tent, and Command Tent. Changes scout towers: lvl1 80 meters vision, lvl2 90meters vision, and lvl3 100meters <br>
-Unit models and textures were made by 0 A.D. (cc by 3.0, https://creativecommons.org/licenses/by-sa/3.0/deed.en). Unit icon textures were modified from original 0 A.D. ones<br><br>
-This project is lisenced under https://creativecommons.org/licenses/by-sa/3.0/deed.en
+Adds 2 new types of cavalry: Scout Cavalry and Advanced Scout Cavalry. Adds 2 types of tents: Tent, and Command Tent. Changes scout towers: they now have 3 levels, with the 3rd one being able to shoot arrows. See wiki for more details. Unit models and textures were made by Wildfire Games (art under cc by 3.0, https://creativecommons.org/licenses/by-sa/3.0/deed.en and code under GPLv2 https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html). Unit icon textures were modified from original 0 A.D. ones<br><br>
+This project is licensed under https://creativecommons.org/licenses/by-sa/3.0/deed.en
 <br>
 <br>
 Any suggestions or porblems, please report to forum: https://wildfiregames.com/forum/topic/163707-scouting-mod/
@@ -13,9 +12,10 @@ Minmize stuff in the tent and scout tent templates, probably saves on RAM<br>
 fix range bonus tech<br>
 remove unused auras<br>
 make Rome's second teambonus work<br>
-## New (2.0.1 Beta)
 clean up scout tower files<br>
 clear up some civic center files<br>
+## New (2.0.2 Beta)
+update license stuff<br>
 <br>
 
 Full changelog has moved to the https://github.com/Jeff-web-sketch/Scouting/wiki
