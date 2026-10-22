@@ -6,5 +6,15 @@ This project is lisenced under https://creativecommons.org/licenses/by-sa/3.0/de
 Any suggestions or porblems, please report to forum: https://wildfiregames.com/forum/topic/163707-scouting-mod/
 <br>
 <br>
-Changelog has moved to the https://github.com/Jeff-web-sketch/Scouting/wiki
+
+# Version 2.0 -> 10/21/26 
+Todo: fix ai using command tent as a dropsite<br>
+Minmize stuff in the tent and scout tent templates, probably saves on RAM<br>
+fix range bonus tech<br>
+remove unused auras<br>
+make Rome's second teambonus work<br>
+
+<br>
+
+Full changelog has moved to the https://github.com/Jeff-web-sketch/Scouting/wiki
 
