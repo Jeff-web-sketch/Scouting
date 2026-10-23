@@ -17,7 +17,7 @@ clean up scout tower files<br>
 clear up some civic center files<br>
 update license stuff<br>
 ## New (2.0.3 Beta)
-verified that this is compatable with 29, and changed mod.json accordingly<br>
+made a branch for 0 A.D. 29<br>
 <br>
 
 Full changelog has moved to the https://github.com/Jeff-web-sketch/Scouting/wiki
