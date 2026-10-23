@@ -22,7 +22,7 @@
     <GenericName>Command Tent</GenericName>
     <SelectionGroupName>template_structure_defensive_tent_command</SelectionGroupName>
     <Tooltip>Build in own, enemy, or neutral territory.</Tooltip>
-    <VisibleClasses datatype="tokens">Tent Town</VisibleClasses>
+    <VisibleClasses datatype="tokens">Tent</VisibleClasses>
     <Classes datatype="tokens">CommandTent</Classes>
     <Icon>structures/mercenary_camp.png</Icon>
     <Requirements>
@@ -81,7 +81,7 @@
   </Trainer>
   <ResourceDropsite>
     <Types>food wood stone metal</Types>
-    <Sharable>true</Sharable>
+    <Sharable>false</Sharable>
   </ResourceDropsite>
   <Population>
     <Bonus op="add">7</Bonus>
