@@ -1,5 +1,4 @@
 {
 	"genericName": "Scouting",
-	"top": "scout_cav_01",
-	"bottom": "scout_cav_02"
+	"pair": ["scout_cav_01", "scout_cav_02"]
 }
