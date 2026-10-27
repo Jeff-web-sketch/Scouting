@@ -16,8 +16,10 @@ make Rome's second teambonus work<br>
 clean up scout tower files<br>
 clear up some civic center files<br>
 update license stuff<br>
-## New (2.0.3 Beta)
 made a branch for 0 A.D. 29<br>
+## New (2.0.4 Beta)
+update description in mod.json<br>
+switch to only maintaining 29<br>
 <br>
 
 Full changelog has moved to the https://github.com/Jeff-web-sketch/Scouting/wiki
