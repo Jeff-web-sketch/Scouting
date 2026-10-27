@@ -6,6 +6,10 @@ This project is licensed under https://creativecommons.org/licenses/by-sa/3.0/de
 Any suggestions or porblems, please report to forum: https://wildfiregames.com/forum/topic/163707-scouting-mod/
 <br>
 <br>
+# Only 29 will be supported. 
+For 28, use <a href="https://github.com/Jeff-web-sketch/Scouting/tree/ba90a5367fc9af5b88eb1bb525ded17df1c85882">Commit ba90a53</a>
+<br>
+<br>
 
 # Version 2.0 -> 10/21/26 
 Todo: fix ai using command tent as a dropsite<br>
