@@ -6,13 +6,13 @@ This project is licensed under https://creativecommons.org/licenses/by-sa/3.0/de
 Any suggestions or porblems, please report to forum: https://wildfiregames.com/forum/topic/163707-scouting-mod/
 <br>
 <br>
-# Only 29 will be supported. 
+# Only 29 will be supported from now on 
 For 28, use <a href="https://github.com/Jeff-web-sketch/Scouting/tree/ba90a5367fc9af5b88eb1bb525ded17df1c85882">Commit ba90a53</a>
 <br>
 <br>
 
 # Version 2.0 -> 10/21/26 
-Todo: fix ai using command tent as a dropsite<br>
+fix ai using command tent as a dropsite (at least from what I saw)<br>
 Minmize stuff in the tent and scout tent templates, probably saves on RAM<br>
 fix range bonus tech<br>
 remove unused auras<br>
@@ -21,7 +21,6 @@ clean up scout tower files<br>
 clear up some civic center files<br>
 update license stuff<br>
 made a branch for 0 A.D. 29<br>
-## New (2.0.4 Beta)
 update description in mod.json<br>
 switch to only maintaining 29<br>
 <br>
